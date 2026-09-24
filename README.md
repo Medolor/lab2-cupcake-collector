@@ -1,2 +1,2 @@
 # lab2-cupcake-collector
-lab stuff
+The game is based on the idea of reaching for the stars. Use arrow keys to navigate
